@@ -6,6 +6,10 @@
       <router-link to="/Brodcast">Brodcast</router-link>
       |
       <router-link to="/Form">Form</router-link>
+      |
+      <router-link to="/Bus">Bus</router-link>
+      |
+      <router-link to="/Slot">Slot</router-link>
     </div>
     <router-view />
   </div>
